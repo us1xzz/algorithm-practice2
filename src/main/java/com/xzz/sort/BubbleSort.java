@@ -1,6 +1,5 @@
 package com.xzz.sort;
 
-import java.util.Arrays;
 //冒泡排序,加入flag可以减少不必要的遍历
 public class BubbleSort {
     public static void main(String[] args) {
